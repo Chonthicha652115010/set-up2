@@ -1,4 +1,6 @@
-[
+{
+    "students": [
+    
     {
         "id": 1,
         "studentId": "SE-001",
@@ -30,3 +32,4 @@
         "description": "Welcome to Olympic"
     }
 ]
+}
